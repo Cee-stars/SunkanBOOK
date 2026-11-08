@@ -1,0 +1,39 @@
+{
+  "title": "瞬間英作文の本",
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "第1章 be動詞",
+      "template": "This is a N.",
+      "sentences": [
+        { "id": "ch1-001", "ja": "これは私の本です。", "en": "This is my book." },
+        { "id": "ch1-002", "ja": "あれは彼の車です。", "en": "That is his car." },
+        { "id": "ch1-003", "ja": "彼女は私の姉です。", "en": "She is my sister." },
+        { "id": "ch1-004", "ja": "私たちは友達です。", "en": "We are friends." },
+        { "id": "ch1-005", "ja": "これは難しい問題です。", "en": "This is a difficult question." },
+        { "id": "ch1-006", "ja": "彼は医者ではありません。", "en": "He is not a doctor." },
+        { "id": "ch1-007", "ja": "あれはあなたのかばんですか。", "en": "Is that your bag?" },
+        { "id": "ch1-008", "ja": "私は今とても忙しいです。", "en": "I am very busy now." },
+        { "id": "ch1-009", "ja": "彼らは教室にいます。", "en": "They are in the classroom." },
+        { "id": "ch1-010", "ja": "それはとても良い考えです。", "en": "That is a very good idea." }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "第2章 不定詞",
+      "template": "It is adj to V.",
+      "sentences": [
+        { "id": "ch2-001", "ja": "英語を話すのは楽しい。", "en": "It is fun to speak English." },
+        { "id": "ch2-002", "ja": "彼に会うのは難しい。", "en": "It is hard to meet him." },
+        { "id": "ch2-003", "ja": "毎日少し走ることは大切だ。", "en": "It is important to run a little every day." },
+        { "id": "ch2-004", "ja": "ここで泳ぐのは危険だ。", "en": "It is dangerous to swim here." },
+        { "id": "ch2-005", "ja": "君がそう言うのは当然だ。", "en": "It is natural for you to say so." },
+        { "id": "ch2-006", "ja": "朝早く起きるのは簡単ではない。", "en": "It is not easy to get up early." },
+        { "id": "ch2-007", "ja": "その本を読むのは面白い。", "en": "It is interesting to read that book." },
+        { "id": "ch2-008", "ja": "真実を知ることは必要だ。", "en": "It is necessary to know the truth." },
+        { "id": "ch2-009", "ja": "一人でそこへ行くのは無理だ。", "en": "It is impossible to go there alone." },
+        { "id": "ch2-010", "ja": "彼女を手伝うなんて君は親切だ。", "en": "It is kind of you to help her." }
+      ]
+    }
+  ]
+}
